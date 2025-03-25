@@ -16,7 +16,7 @@ class APIService {
     static let shared = APIService()
     
     private let baseURL = "https://api.spoonacular.com"
-    private let apiKey = "97eaac3675f64844b60c19bd0cad739e"
+    private let apiKey = "97eaa*************************"
     
     private let session: URLSession
     private let decoder: JSONDecoder
